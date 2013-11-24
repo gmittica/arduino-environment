@@ -11,10 +11,10 @@ Change pins, serial port and DHT sensor type, if needed.
 
 ### OutPut
 Write on serial port a report each second like this one:
-moisture:24
-humidity:35.90 
-temperature:22.10 
-light:768
+moisture:24\n
+humidity:35.90\n 
+temperature:22.10\n 
+light:768\n
 
 Humidity is a percentage, temperature is based on celcius, light from 0 to 1023;
 
